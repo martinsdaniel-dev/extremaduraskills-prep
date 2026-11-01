@@ -1,0 +1,15 @@
+#titulo {
+    color: #4f46e5;
+}
+.normal {
+    color: #666;
+}
+.aviso {
+    background-color: #fef3c7;
+    color: #92400e;
+    padding: 10px;
+}
+
+.importante {
+    font-weight: bold;
+}
